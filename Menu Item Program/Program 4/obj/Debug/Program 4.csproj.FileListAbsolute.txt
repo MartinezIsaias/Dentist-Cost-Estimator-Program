@@ -1,0 +1,14 @@
+C:\Users\zayhm\source\repos\Program 4\Program 4\obj\Debug\Program 4.csproj.AssemblyReference.cache
+C:\Users\zayhm\source\repos\Program 4\Program 4\obj\Debug\Program 4.csproj.CoreCompileInputs.cache
+C:\Users\zayhm\source\repos\Program 4\Program 4\bin\Debug\Program 4.exe.config
+C:\Users\zayhm\source\repos\Program 4\Program 4\bin\Debug\Program 4.exe
+C:\Users\zayhm\source\repos\Program 4\Program 4\bin\Debug\Program 4.pdb
+C:\Users\zayhm\source\repos\Program 4\Program 4\obj\Debug\Program 4.exe
+C:\Users\zayhm\source\repos\Program 4\Program 4\obj\Debug\Program 4.pdb
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Program 4\Program 4\Program 4\bin\Debug\Program 4.exe.config
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Program 4\Program 4\Program 4\bin\Debug\Program 4.exe
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Program 4\Program 4\Program 4\bin\Debug\Program 4.pdb
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Program 4\Program 4\Program 4\obj\Debug\Program 4.csproj.AssemblyReference.cache
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Program 4\Program 4\Program 4\obj\Debug\Program 4.csproj.CoreCompileInputs.cache
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Program 4\Program 4\Program 4\obj\Debug\Program 4.exe
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Program 4\Program 4\Program 4\obj\Debug\Program 4.pdb

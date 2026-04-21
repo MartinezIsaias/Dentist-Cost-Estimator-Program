@@ -1,0 +1,20 @@
+C:\Users\zayhm\source\repos\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\zayhm\source\repos\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\zayhm\source\repos\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\zayhm\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\zayhm\source\repos\Program 3\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\zayhm\source\repos\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\zayhm\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\zayhm\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\zayhm\source\repos\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\zayhm\source\repos\Program 3\Program 3\obj\Debug\Program 3.pdb
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\obj\Debug\Program_3.Form1.resources
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\Isaiah Martinez\Desktop\CIS PROJECTS\Prog3\Program 3\Program 3\obj\Debug\Program 3.pdb
